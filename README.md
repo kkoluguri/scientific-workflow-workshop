@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: Kalyani Koluguri
 
 # Scientific workflow GitHub workshop
 
